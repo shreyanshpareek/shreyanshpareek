@@ -56,8 +56,9 @@
     <img src="https://github-readme-stats.vercel.app/api?username=shreyanshpareek&show_icons=true&line_height=40&count_private=true&theme=midnight-purple">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyanshpareek&theme=midnight-purple">
 </p>
+![Profile views](https://gpvc.arturio.dev/shreyanshpareek)
 [![trophy](https://github-profile-trophy.vercel.app/?username=shreyanshpareek&theme=onedark)](https://github.com/shreyanshpareek/github-profile-trophy)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shreyanshpareek&theme=dark)](https://git.io/streak-stats)
 
-![Profile views](https://gpvc.arturio.dev/shreyanshpareek)
+
