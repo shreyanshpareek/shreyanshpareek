@@ -57,7 +57,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyanshpareek&theme=midnight-purple">
 </p>
  
-[![GitHub Streak](user=shreyanshpareek&theme=dark)](https://git.io/streak-stats)
+
 
  [![trophy](https://github-profile-trophy.vercel.app/?username=shreyanshpareek&theme=onedark)](https://github.com/shreyanshpareek/github-profile-trophy)
 
